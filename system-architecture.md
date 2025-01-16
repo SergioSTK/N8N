@@ -157,7 +157,7 @@ DELETE /api/calendario/licencias/{id}
 - Verificar campos requeridos antes de enviar
 
 ### 4.3. Consideraciones de Seguridad
-- Implementar autenticación JWT
+- Implementar autenticación BASIC
 - Validar roles y permisos
 - Sanitizar inputs
 - Implementar rate limiting
